@@ -1,5 +1,8 @@
 _repo: The-Forme-of-Cury--A-Roll-of-Ancient-English-Cookery-Compiled-about-A.D.-1390_8102
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pegge, Samuel
@@ -19,6 +22,8 @@ description: "The Forme of Cury (Method of Cooking, cury being from Middle Frenc
   The scroll was written in late Middle English (c. 1390) on vellum and details some\
   \ 205 recipes (although the exact number of recipes varies slightly between different\
   \ versions).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8102#The-Forme-of-Cury--A-Roll-of-Ancient-English-Cookery-Compiled-about-A.D.-1390
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
